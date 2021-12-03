@@ -1,5 +1,6 @@
 import React,{useState} from 'react';
-import {Button,Alert,Row,Col,Navbar,Nav,NavDropdown,Form ,Container,FormControl} from  'react-bootstrap';
+import { Button, Alert, Row, Col, Navbar, Nav, NavDropdown, Form, Container, FormControl } from 'react-bootstrap';
+
 import './App';
 
 function AlertDismissibleExample() {
